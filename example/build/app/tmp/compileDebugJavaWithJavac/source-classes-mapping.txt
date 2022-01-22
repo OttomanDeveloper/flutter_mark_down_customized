@@ -1,4 +1,0 @@
-io/flutter/plugins/GeneratedPluginRegistrant.java
- io.flutter.plugins.GeneratedPluginRegistrant
-io/flutter/packages/flutter_markdown_example/BuildConfig.java
- io.flutter.packages.flutter_markdown_example.BuildConfig
