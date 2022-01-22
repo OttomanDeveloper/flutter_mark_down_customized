@@ -1,5 +1,5 @@
 ## 0.6.10
-  * Adding colors property
+  * Adding colors property. Changes made by Ottoman Coder
 
 ## 0.6.9
 
